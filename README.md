@@ -30,9 +30,9 @@ An interactive **Power BI dashboard** designed to analyze Spotify's Top 50 globa
 
 Developed as a hands-on learning project using online tutorials and educational resources to strengthen practical skills in Power BI, DAX, and interactive dashboard development.
 
-## 🔗 Project Links
+## 🔗 Portfolio
 
-- 🌐 [View Portfolio](https://github.com/AsifNasir20/Spotify_Music_Analytics_BI/blob/d48cf170e63ef3fe195ace0088322d5e37b5e32b/Spotify_Dashboard.pdf)
+- 🌐 [Portfolio](https://asifnasir20.github.io/)
 
 ## 👨‍💻 Author
 
