@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** designed to analyze Spotify's Top 50 globa
 
 ## 📸 Dashboard Preview
 
-![Spotify Music Analytics Dashboard](YOUR-IMAGE-PATH)
+![Spotify Music Analytics Dashboard](Spotify_Dashboard.pdf)
 
 ## ✨ Key Features
 
